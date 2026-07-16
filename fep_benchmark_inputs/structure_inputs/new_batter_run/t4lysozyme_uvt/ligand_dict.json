@@ -1,0 +1,14 @@
+{
+    "meta_methyl_ethyl_benzene": "INPUTS/meta_methyl_ethyl_benzene.sdf",
+    "methyl_benzene": "INPUTS/methyl_benzene.sdf",
+    "ethyl_benzene": "INPUTS/ethyl_benzene.sdf",
+    "ortho_methyl_ethyl_benzene": "INPUTS/ortho_methyl_ethyl_benzene.sdf",
+    "m-xylene": "INPUTS/m-xylene.sdf",
+    "p-xylene": "INPUTS/p-xylene.sdf",
+    "o-xylene": "INPUTS/o-xylene.sdf",
+    "butyl_benzene": "INPUTS/butyl_benzene.sdf",
+    "propyl_benzene": "INPUTS/propyl_benzene.sdf",
+    "para_methyl_ethyl_benzene": "INPUTS/para_methyl_ethyl_benzene.sdf",
+    "benzene": "INPUTS/benzene.sdf",
+    "isobutyl_benzene": "INPUTS/isobutyl_benzene.sdf"
+}

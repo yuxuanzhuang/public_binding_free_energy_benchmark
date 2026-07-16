@@ -1,0 +1,9 @@
+{
+    "3d": "INPUTS/3d.sdf",
+    "8d": "INPUTS/8d.sdf",
+    "2d": "INPUTS/2d.sdf",
+    "4d": "INPUTS/4d.sdf",
+    "5d": "INPUTS/5d.sdf",
+    "6d": "INPUTS/6d.sdf",
+    "7d": "INPUTS/7d.sdf"
+}
