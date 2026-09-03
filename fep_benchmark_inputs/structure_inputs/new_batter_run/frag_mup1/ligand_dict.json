@@ -1,0 +1,9 @@
+{
+    "IBT": "INPUTS/IBT.sdf",
+    "MT": "INPUTS/MT.sdf",
+    "PT": "INPUTS/PT.sdf",
+    "SBT_R": "INPUTS/SBT_R.sdf",
+    "SBT_S": "INPUTS/SBT_S.sdf",
+    "IPT": "INPUTS/IPT.sdf",
+    "ET": "INPUTS/ET.sdf"
+}
